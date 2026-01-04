@@ -9,3 +9,59 @@ The design is electrically safe since all PCBs are mounted on nylon standoffs wi
 
 
 The T-slot system allows me to directly attach the gas spring arm and additionally the custom hardware peripheral. The system is fully modular with M4 Sliding T-nuts. We are living in an era of disposable hardware wherein a defective plastic clip or a blown capacitor goes to the dump. Spectra Plan makes way for a modularized, and fixable hardware as exhibited in Spectra-Exo. This project has helped me develop the skills sets necessary in mechanical CAD, thermal management, and precision fabrication.
+
+BOM
+
+
+ALL ITEMS ONLINE ON AMAZON -
+item                 quantity             unit price             cost price 
+1. acer nitro      
+   XV272U X1 27"        1                    ₹15,999                 ₹15,999
+2. MAF 13 pc HSS
+   drill bit set        1                    ₹255                   ₹255
+3. Uptodateproducts
+   Vise woodworking
+   hand drill           1                     ₹495                 ₹495
+4. ETIPL double
+   sided PE foam
+   adhesive tape        1                    ₹168                  ₹168
+5. Immtech M4 tnuts     1                    ₹749                  ₹749
+6. XIKKART PC Standoffs  1                  ₹499                   ₹499
+7. SHIPICOS 115-in-1
+   precision scredriver
+   set                   1                   ₹449                   ₹449
+8. UGREEN display port
+   1.4 vesa certified    1                  ₹1,699                  ₹1,699
+9. APEX neon rope light  1                  ₹3,499                  ₹3,499
+10. 3M tapeflex
+    electrical tape      1                  ₹184                    ₹184
+11. Rpi shop M3x6mm
+    CSK Allen head
+    screw                2                  ₹190                    ₹380
+12. RPISHOP M4x10mm
+    allen button head    2                  ₹143                    ₹286
+13. Rpi shop - 4 Pcs
+    Corner Bracket
+    Joining Plate        1                  ₹999                    ₹999
+15. Thermal grizzly
+    minus pad 8          1                  ₹1,440                  ₹1,440
+16. amazon basics
+    pro series
+    moniter arm mount    1                  ₹2,261                  ₹2,261
+17. Sure cut Black
+    aclyric sheets       4                  ₹699                    ₹2,796
+
+    total cost- ₹32,158.60
+
+ALL ITEMS IN LOCAL STORE 
+2020 aluminum profile (customised) 
+price- around ₹1,500 or ₹2000 maybe less 
+
+
+
+complete total cost of online + local store  
+₹32,158.60 + ₹1,500/2,000
+FINAL = ₹33,658.60
+
+$357.25 + $16.66
+FINAL = $372.92
