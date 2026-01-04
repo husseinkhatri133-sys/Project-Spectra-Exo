@@ -27,5 +27,3 @@ This securely supports the glass without introducing stress concentrations, and 
 Lastly, the final assembly would be to be built to be mountable to a gas-spring monitor stand, using the 2020 aluminum structural interface.
 
 It would provide an efficient, highly professional workstation setup while still permitting maximum adjustability.
-
-It would provide an efficient, highly professional workstation setup while still permitting maximum adjustability.
